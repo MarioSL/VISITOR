@@ -1,4 +1,7 @@
-#Visitor
+
+![alt text][logo]
+
+
 >A Application focused in customers registration.
 
 This application was developed to be used by all who want to collect basic data of its future customers , and is designed to be used specifically for stands, fairs, shows, and other events.
@@ -34,3 +37,6 @@ OS X & Linux:
 - [Lucas Fernando Geron](https://github.com/lucasgeron "Github Profile")
 - [Jose Mario de Souza Leão Júnior](https://github.com/MarioSL "Github Profile")
 - [Jefesson Henrique Ramos](https://github.com/henroca "Github Profile")
+
+
+[logo]: https://s31.postimg.org/rxdk5ar8r/Visitor_Logo_Black.png "Visitor Logo"
